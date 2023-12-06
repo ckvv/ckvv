@@ -5,4 +5,5 @@
 </a>
 
 # `广告(advertising)`
-## [免费高速稳定VPN(Free high-speed and stable VPN) https://w1.v2free.top]( https://w1.v2free.top/auth/register?code=t6E9)
+## [点击获取免费高速稳定VPN `https://w1.v2free.top`]( https://w1.v2free.top/auth/register?code=t6E9)
+## [Click to get free high-speed and stable VPN `https://w1.v2free.top`]( https://w1.v2free.top/auth/register?code=t6E9)
