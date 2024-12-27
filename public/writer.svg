@@ -28,7 +28,7 @@
         
         /* Animation */
         .anim-typewriter {
-          animation: typewriter 4s steps(10) 1s 1 normal both,
+          animation: typewriter 4s steps(16) 1s 1 normal both,
             blinkTextCursor 1000ms steps(20) infinite normal;
         }
         @keyframes typewriter {
@@ -50,7 +50,7 @@
 			</style>
       <div class="container">
         <span>
-          <p class="line-1 anim-typewriter">🚲 🛵 🏍 🛺 🚗 🚂 🚅 ✈️ 🚀 🛸 </p>
+          <p class="line-1 anim-typewriter">长风破浪会有时，直挂云帆济沧海。</p>
         </span>
       </div>
     </div>
