@@ -1,5 +1,5 @@
 <h3 align="center">
-   我是一名 Web 全栈工程师, 我喜欢 JavaScript, 我擅长 Vue.js 和 Node.js。
+   我是一名 Web 全栈工程师, 我喜欢 Vue.js 和 Node.js。
 </h3>
 <h3 align="center">语言 & 技术栈</h3>
 <p align="center">
