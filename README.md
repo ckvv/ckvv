@@ -1,7 +1,7 @@
 <h3 align="center">
    我是一名 Web 全栈工程师, 我喜欢 JavaScript, 我擅长 Vue.js 和 Node.js。
 </h3>
-<h4 align="center">语言 & 技术栈</h4>
+<h3 align="center">语言 & 技术栈</h3>
 <p align="center">
 <img height="20" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black">
 <img height="20" src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white">
@@ -19,7 +19,7 @@
 <img height="20" src="https://img.shields.io/badge/Tauri-24C8D8.svg?style=for-the-badge&logo=Tauri&logoColor=white">
 </p>
 
-<h4 align="center">我的博客</h4>
+<h3 align="center">我的博客</h3>
 <p align="center">
   <a href="https://ckvv.net/" target="_blank">https://ckvv.net</a>
 </p>
