@@ -21,5 +21,5 @@
 
 <h4 align="center">我的博客</h4>
 <p align="center">
-  <a href="https://ckvv.net/">https://ckvv.net</a>
+  <a href="https://ckvv.net/" target="_blank">https://ckvv.net</a>
 </p>
